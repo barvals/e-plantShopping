@@ -250,3 +250,15 @@ body {
         text-align: center; /* Align text to the center */
       }
   }
+
+  .cart-count {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: red;
+    color: white;
+    padding: 4px 8px;
+    border-radius: 50%;
+    font-size: 14px;
+  }
+  
